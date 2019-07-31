@@ -1,0 +1,14 @@
+E:\POC\EmployeeManagnment\EmployeeManagnment\bin\Debug\netcoreapp2.1\EmployeeManagnment.deps.json
+E:\POC\EmployeeManagnment\EmployeeManagnment\bin\Debug\netcoreapp2.1\EmployeeManagnment.runtimeconfig.json
+E:\POC\EmployeeManagnment\EmployeeManagnment\bin\Debug\netcoreapp2.1\EmployeeManagnment.runtimeconfig.dev.json
+E:\POC\EmployeeManagnment\EmployeeManagnment\bin\Debug\netcoreapp2.1\EmployeeManagnment.dll
+E:\POC\EmployeeManagnment\EmployeeManagnment\bin\Debug\netcoreapp2.1\EmployeeManagnment.pdb
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.csprojAssemblyReference.cache
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.csproj.CoreCompileInputs.cache
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.RazorAssemblyInfo.cache
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.RazorAssemblyInfo.cs
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.AssemblyInfoInputs.cache
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.AssemblyInfo.cs
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.RazorTargetAssemblyInfo.cache
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.dll
+E:\POC\EmployeeManagnment\EmployeeManagnment\obj\Debug\netcoreapp2.1\EmployeeManagnment.pdb
